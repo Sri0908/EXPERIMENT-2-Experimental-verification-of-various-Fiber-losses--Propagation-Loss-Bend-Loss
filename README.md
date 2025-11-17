@@ -27,6 +27,8 @@ V1/V2 = e [ -a (L1+L2 ) ]
 
 ![exp2](https://github.com/user-attachments/assets/1cc5445d-dff7-4001-8f64-5f7120c4544b)
 
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/de7c2846-943d-42d0-ae9e-8ce7cb40f9ba" />
+
 
 **Result:**  
 Attenuation and bending loss characteristics verified.
